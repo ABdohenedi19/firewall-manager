@@ -1,0 +1,4 @@
+[2025-12-03 16:52:40] [+] Real-time monitoring started on: C:\Firewall Manager project\firewall_log.txt
+[2025-12-03 16:53:30] [+] Monitoring stopped.
+[2025-12-03 18:14:43] [+] Real-time monitoring started on: C:\Firewall Manager project\firewall_log.txt
+[2025-12-03 18:15:01] [+] Monitoring stopped.
